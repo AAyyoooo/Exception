@@ -1,7 +1,6 @@
 
 package scexception1;
-import java.util.*;
-import java.io.*;
+
 
 class stackoverFlow extends Exception
 {
